@@ -1,0 +1,38 @@
+
+
+
+	<Doc html>
+	<html>
+	<head>
+<title>Sports</title>
+
+  </head>
+	<body bgcolor="orchid">
+
+<h1 style = "font-size:300% ;background-color : green; color: deeppink ; text-align:center "><strong>Sports</strong></h1>
+<img src ="sports.jpg" alt="No Picture Available" align = "center">
+	<table border ="3">
+ <tr>
+<td>basketball</td>
+<td>volleyball</td>
+<td>tennis</td>
+	</tr>
+<tr>
+<td><img src ="basketball.jpg" alt="No Picture Available" ></td>
+<td><img src ="volleyball .jpg" alt="No Picture Available" ></td>
+<td><img src ="tennis.jpg"     alt="No Picture Available" ></td>
+	</tr>
+<tr>
+<td>football</td>
+<td colspan="2">ping pong</td>
+
+	</tr>
+<tr>
+<td><img src ="football.jpg"   alt="No Picture Available" ></td>
+<td colspan="2"><img src ="ping pong.jpg" align="center" hight = "100%" width ="100%" alt="No Picture Available" ></td>
+
+	</tr>
+		</table>
+<a href="file:///D:/ESRAA/index1/2nd-Main.html">  page 2(Main)</a>
+</body>
+</html>

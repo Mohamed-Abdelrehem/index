@@ -1,0 +1,26 @@
+
+
+	<Doc html>
+	<html>
+	<head>
+<title>Form</title>
+<style>body,html{height:100%;margin:0;}
+       .bg{background-image:url("background.jpg");height:100%;
+background-repeat:no-repeat;background-size:cover;background-position:center;}</style>
+  </head>
+	<body background="background.jpg" align= "center">
+<div class ="bg">
+<h1 style = "font-size:300%;background-color : darkblue; color: aqua ;" align= "center"><strong>Enter your information then press Submit and see topics</strong></h1>
+<form>
+<ol>
+<li><h5>please enter your username</h5><input type ="text" name ="username" /> <br/>
+</li><li><h5>please enter your password</h5><input type ="password" name ="password" /> <br/>
+</li><li><h5>please choose your gender</h5><input type ="radio" name ="gender" value="male"  /> Male<br/>
+<input type ="radio" name ="gender" value="female"/> Female<br/>
+</li><li><h5>Do you like reading</h5><input type ="checkbox" name ="hobby" value="1"/> reading<br/>
+</li><br/><input type ="Submit" value="Submit"/> <br/><br/>
+<a href="file:///D:/ESRAA/index1/2nd-Main.html">  page 2(Main)</a>
+</ol>
+</form></div>
+</body>
+</html>
